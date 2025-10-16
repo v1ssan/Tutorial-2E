@@ -8,5 +8,3 @@ matrix = [
     [4, 5, 6],
     [7, 8, 9]
 ]
-
-# TODO: compute and print the total sum of all numbers

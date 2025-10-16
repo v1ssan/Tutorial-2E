@@ -1,6 +1,6 @@
 """
 Write a function that takes a list of numbers and returns their average.
-Do not use the built-in `sum()` or `len()` functions.
+Do not use the built-in `sum()` functions.
 
 Example:
 numbers = [10, 20, 30, 40]

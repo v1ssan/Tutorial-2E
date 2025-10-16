@@ -1,6 +1,4 @@
 """
-Exercise 8: Filter Even Numbers
-
 Return a list containing only even numbers from the given list.
 """
 
